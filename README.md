@@ -54,7 +54,9 @@
 ![json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white "json")
 ![storybook](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white "storybook")
 ![NX](https://img.shields.io/badge/nx-143055?style=for-the-badge&logo=nx&logoColor=white "nx")
-![nvm](https://img.shields.io/badge/nvm-007BFF?style=for-the-badge&logo=42&logoColor=white "nvm")
+![nvm](https://img.shields.io/badge/nvm-007BFF?style=for-the-badge&logo=nvm&logoColor=white "nvm")
+![ejs](https://img.shields.io/badge/ejs-5E5C5C?style=for-the-badge&logo=ejs&logoColor=white "ejs")
+
 </div>
 
 
